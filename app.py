@@ -1,11 +1,10 @@
 """
-ShopSphere - Online Shopping Order Management System
-Batch 11 | Tkinter
+ShopSphere - Online Shopping Order Management System | Tkinter
 
 Team:
-    RA2511033010096  S PRANAV GANDHI
-    RA2511033010097  RAJVEER SINGH
-    RA2511033010099  MANORANJAN G
+    RA2511003011700 G KAILASH
+    RA2511003011731 VADDI SNEITH 
+    RA2511003011675 SURAJ
 
 Features
     * Form fields  : Order ID, Customer Name, Product Name, Quantity
